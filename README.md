@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Database CRUD API
 
 ## Project Overview
@@ -128,3 +129,6 @@ An optional local AI assistant using Ollama could answer natural-language questi
 ## Author
 
 Add your name here.
+=======
+# student-crud-api
+>>>>>>> aaa3d0f8507335dcfe5f17b2dcdb15359963a8cd
